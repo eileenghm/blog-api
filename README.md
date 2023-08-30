@@ -24,4 +24,4 @@ delete a specific blog post by id
   "date": "2023-08-01T10:00:00Z"
 }
 
-![Alt Text]("blog web screenshot.png")
+![Alt Text](blog-web-screenshot.png)
